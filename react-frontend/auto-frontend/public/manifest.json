@@ -1,0 +1,16 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "https://f.hubspotusercontent40.net/hub/5883493/hubfs/Screen%20Shot%202020-04-18%20at%2020.05.52.png",
+      "sizes": "144X144",
+      "type": "image/png",
+      "purpose": "markable any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
